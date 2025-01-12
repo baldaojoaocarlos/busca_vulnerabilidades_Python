@@ -1,5 +1,6 @@
 # busca_vulnerabilidades_Python
 Desafio DIO Criando um Código para busca de vulnerabilidades em Python
+
 *Descrição*
 Crie uma solução para analisar uma lista de e-mails recebidos, verificando padrões comuns de phishing nas mensagens. Se um e-mail contiver palavras suspeitas como "ganhe", "prêmio", "urgente", "desconto", "click" e "promoção" ele deve ser classificado como "Phishing" e "Seguro".
 
